@@ -2,7 +2,7 @@
 
 ## Contexte
 Segmentation des clients d'un site d'E-commerce brézilien.
-Le but est de fournir à l'équipe marketing une description actinonable, ainsi que la logique sous-jacente, des groupes de clients identifiés par la segmentation.
+Le but est de fournir à l'équipe marketing une description actinonable, ainsi que la logique sous-jacente des groupes de clients identifiés par la segmentation.
 En prenant en compte la stablilité des segments au cours du temps, une proposition de contrat de maintenance sera faite à l'entreprise.
 
 ## Objectifs
