@@ -19,9 +19,13 @@ En prenant en compte la stablilité des segments au cours du temps, une proposit
 
 ## Outils
 - Python
-  - numpy
-  - matplotlib
-  - pandas
-  - seaborn
-  - sklearn
-- Jupyter notebook
+- Git / Github
+- Jupyter notebook / Python IDE
+- PowerPoint
+
+### Python : libraires additionnelles
+- numpy
+- matplotlib
+- pandas
+- seaborn
+- sklearn
